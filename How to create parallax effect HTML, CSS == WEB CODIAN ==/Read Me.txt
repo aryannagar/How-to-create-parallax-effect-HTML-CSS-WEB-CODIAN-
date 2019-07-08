@@ -1,0 +1,13 @@
+WEB CODIAN
+
+In this repository you will going to find the stuff related How you can create a Parallax Effect in your
+website with using a very small piece of code of HTML and CSS. This is one of the easiest ways through which you
+can do so.
+
+This code is free to use for anybody anywhere. You can use this code anywhere you want to use in your website.
+
+For Video Totorial: 
+
+Visit our Youtube Channel For more interesting stuff and tutorials: 
+
+WEB CODIAN: https://www.youtube.com/channel/UCvDfMTJRY5y-O35vQCVGWKw
